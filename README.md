@@ -17,5 +17,5 @@
 #### 📈 Looking For
 AWS Cloud Support / Junior Cloud Engineer / DevOps roles — Open to remote
 
-📫 **Contact:** [LinkedIn] | atapoayiishmael@gmail.com
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/atapoayiishmael) | atapoayiishmael@gmail.com
 🌍 Accra, Ghana — Available immediately

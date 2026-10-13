@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Atapoayiish 👋 | AWS Cloud Engineer | Ghana 
 
-<!--
-**Atapoayiish/Atapoayiish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Live Project:** [buabengauthentichotel.com](https://buabengauthentichotel.com) — Serverless hotel booking platform costing ~$3/month
 
-Here are some ideas to get you started:
+#### 🚀 Main Focus: AWS Serverless
+- **Architecture:** S3 + CloudFront OAC + Route53 + ACM + API Gateway + Lambda + DynamoDB + CloudFormation (IaC)
+- **Project:** [buabeng-hotel-aws-serverless](https://github.com/Atapoayiish/buabeng-hotel-aws-serverless)
+- **Cost Optimized | Secure | Production Live in Ghana**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧪 Background: QA
+- Exploratory QA & test case design (2025)
+- Now focused fully on Cloud / DevOps engineering
+
+#### 🛠️ Stack
+`AWS` `CloudFormation` `Lambda` `DynamoDB` `API Gateway` `S3` `CloudFront` `Route53` `IAM` `Git` `Linux`
+
+#### 📈 Looking For
+AWS Cloud Support / Junior Cloud Engineer / DevOps roles — Open to remote
+
+📫 **Contact:** [LinkedIn] | atapoayiishmael@gmail.com
+🌍 Accra, Ghana — Available immediately
